@@ -6,7 +6,6 @@ Throughout the course, I have managed to deliver a pretty good range of projects
 which have respective apps built with React & React Native
 
 Let me know if you need more help to make the repos work
-Thanks
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dublino8576)](https://github.com/anuraghazra/github-readme-stats)
 <!--
