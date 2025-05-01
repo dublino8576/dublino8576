@@ -8,7 +8,7 @@ which have respective apps built with React & React Native.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dublino8576)](https://github.com/anuraghazra/github-readme-stats)
 
-I am currently on my way to revamping my portfolio aiming at developing a sleek mobile version of the NC News aggregation site!
+I am currently on my way to revamping my portfolio aiming at developing a sleek mobile version of the NC News aggregation site
 <!--
 **dublino8576/dublino8576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
