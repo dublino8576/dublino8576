@@ -3,7 +3,7 @@
 I am a Full Stack Web Developer who graduated from Javascript Northcoders Bootcamp in March 2025.
 
 Throughout the course, I have managed to deliver a pretty good range of projects, building two RESTful APIs: NC News & Habigotchi,
-which have respective apps built with React & React Native.
+which have respective apps built with React & React Native!
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dublino8576)](https://github.com/anuraghazra/github-readme-stats)
