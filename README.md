@@ -63,6 +63,6 @@ A responsive, community‑led online magazine with interactive UI components and
 ## 📫 Get in Touch
 
 - **Email:** lucadimaio@gmail.com  
-- **LinkedIn:** [Luca Di Maio](https://www.linkedin.com/in/luca-di-maio-io/)  
+- **LinkedIn:** [Luca Di Maio](https://www.linkedin.com/in/luca-di-maio-dev/)  
 
 ---
